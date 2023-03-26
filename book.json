@@ -3,15 +3,8 @@
     "plugins": [
         "back-to-top-button",
         "hide-published-with",
-        "collapsible-chapters",
-        "favicon-absolute"
+        "collapsible-chapters"
     ],
-    "pluginsConfig": {
-    	"favicon-absolute":{
-            "favicon": "./asset/favicon.ico",
-            "appleTouchIconPrecomposed152": "./asset/apple-touch-icon.png"
-        }
-    },
     "styles": {
         "website": "website.css"
     }
