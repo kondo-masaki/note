@@ -2,7 +2,8 @@
   "dependencies": {
     "gitbook-plugin-back-to-top-button": "0.1.4",
     "gitbook-plugin-hide-published-with": "0.0.1",
-    "gitbook-plugin-collapsible-chapters": "0.1.8"
+    "gitbook-plugin-collapsible-chapters": "0.1.8",
+    "gitbook-plugin-favicon-absolute": "0.1.1"
   },
   "devDependencies": {
     "honkit": "^3.7.5"
