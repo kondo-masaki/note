@@ -1,0 +1,11 @@
+{
+    "title": "note",
+    "plugins": [
+        "back-to-top-button",
+        "hide-published-with",
+        "collapsible-chapters"
+    ],
+    "styles": {
+        "website": "website.css"
+    }
+}
