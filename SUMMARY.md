@@ -1,4 +1,4 @@
 # Summary
 
-* [TOP](README.md)
+* [About](README.md)
 * [Honkit](/pages/Honkit.md)
