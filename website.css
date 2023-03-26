@@ -47,19 +47,6 @@
     color: rgb(17, 17, 37);
 }
 
-.markdown-section h2 {
-    border-left: 7px solid rgb(16, 122, 126);
-    padding-left: 10px;
-}
-
-.markdown-section h2 {
-    background-color: rgb(244, 244, 244);
-}
-
-.markdown-section h3 {
-    border-bottom: 1px solid rgb(197, 197, 197);
-}
-
 .markdown-section pre,
 .markdown-section code {
     font-family: "Roboto Mono", Consolas, "Courier New", courier, monospace;
