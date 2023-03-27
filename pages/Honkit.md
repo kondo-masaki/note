@@ -1,5 +1,5 @@
 # Honkit
-- GitBook後継の[Honkit](https://github.com/honkit/honkit)を使ってビルドしたHTMLファイルをGitHub Pagesでホスティングしています。
+- GitBook後継の[Honkit](https://github.com/honkit/honkit)を使ってビルドしたHTMLファイルをGitHub Pagesでホスティング
     - 下記を実行して/docs配下にHTMLを生成
         - `npx honkit serve . docs`
     - リモートリポジトリにPUSH
